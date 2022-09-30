@@ -66,11 +66,12 @@ form button:hover {
     border-radius: 7px;
     box-shadow: 0 2px 5px #ccc;
     padding: 0.5px 15px;
-    width: 300px;
+    width: 285px;
     height: 150px;
     margin: 18px 30px;
     float: left;
     position: relative;
+    overflow-y: scroll;
 }
 .note h1 {
     font-family: "McLaren", cursive;
