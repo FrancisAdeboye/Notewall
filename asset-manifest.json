@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Notewall/static/js/main.90855eed.js",
+    "index.html": "/Notewall/index.html",
+    "main.90855eed.js.map": "/Notewall/static/js/main.90855eed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.90855eed.js"
+  ]
+}
